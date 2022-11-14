@@ -1,3 +1,3 @@
 # EjerciciosHTMLyCss
 ## Repositorios de Jose Antonio
-## Reporsitorio para los ejercicios de marcas
+ Reporsitorio para los ejercicios de marcas
